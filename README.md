@@ -10,7 +10,7 @@ The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-
 After Node is installed in your system, follow the below steps.
 
 1. Navigate to the directory where you want to store the app.
-2. Clone the repo by use `git clone` command
+2. Clone the repo by use `git clone https://github.com/includelife/Neighborhood-Map.git`
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 4. Launch the app with this command `npm start`
 
